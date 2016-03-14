@@ -1,3 +1,4 @@
+package com.generator.captcha;
 import java.awt.Dimension;
 
 import javax.swing.JFrame;
